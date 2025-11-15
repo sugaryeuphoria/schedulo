@@ -1,4 +1,4 @@
-# Schedulo - Apple Shift Manager
+# Schedulo - Shift Manager
 
 A modern, full-featured shift management application built with React and Firebase. Schedulo enables employees to manage their schedules and request shift swaps, while providing managers with comprehensive oversight and control of the entire team's schedule.
 
